@@ -1,0 +1,19 @@
+idle.style.display = "none";
+up1.style.display = "none";
+up2.style.display = "none";
+down1.style.display = "none";
+down2.style.display = "none";
+right1.style.display = "none";
+right2.style.display = "none";
+left1.style.display = "none";
+left2.style.display = "none";
+
+<img src="./resources/Sprite-Idle.png" class="sprite" id="idle">
+<img src="./resources/Sprite-Up1.png" class="sprite" id="up1">
+<img src="./resources/Sprite-Up2.png" class="sprite" id="up2">
+<img src="./resources/Sprite-Down1.png" class="sprite" id="down1">
+<img src="./resources/Sprite-Down2.png" class="sprite" id="down2">
+<img src="./resources/Sprite-Right1.png" class="sprite" id="right1">
+<img src="./resources/Sprite-Right2.png" class="sprite" id="right2">
+<img src="./resources/Sprite-Left1.png" class="sprite" id="left1">
+<img src="./resources/Sprite-Left2.png" class="sprite" id="left2">
